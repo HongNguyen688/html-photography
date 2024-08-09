@@ -1,0 +1,50 @@
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 40px 20px 0 20px;
+}
+.heading{
+    width: 50%;
+    padding-bottom: 50px;
+}
+
+h2{
+    font-size: 3em;
+    font-weight: bolder;
+    border-bottom: 3px solid #222;
+}
+h2 span{
+    font-weight: 100;
+}
+
+.container .box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  
+}
+
+.dream {
+    display: flex;
+    flex-direction: column;
+    width: 32.5%;
+}
+
+.dream img{
+    width: 100%;
+    padding-bottom: 15px;
+    border-radius: 5px;
+}
+
+.container .btn{
+    color: #fcfcfc;
+    font-size: 1.2 em;
+    text-decoration: none;
+    font-weight: bolder;
+    letter-spacing: 3px;
+
+}
