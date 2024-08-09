@@ -48,3 +48,8 @@ h2 span{
     letter-spacing: 3px;
 
 }
+
+.btn{
+    padding: 10px 20px;
+    text-decoration: none;
+}
