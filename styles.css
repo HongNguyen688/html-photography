@@ -51,5 +51,7 @@ h2 span{
 
 .btn{
     padding: 10px 20px;
-    text-decoration: none;
+}
+.btn a{
+        text-decoration: none;
 }
